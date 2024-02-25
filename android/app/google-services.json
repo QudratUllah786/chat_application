@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639361302101",
+    "project_id": "fir-app-5f614",
+    "storage_bucket": "fir-app-5f614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639361302101:android:84ae1f8217fd473ebc5edc",
+        "android_client_info": {
+          "package_name": "com.qudratsoftech.chatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOKf3EqlzT0P1vLRXoCdw1JKvx11pbzd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
